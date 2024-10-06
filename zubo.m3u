@@ -1,262 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="云南电信",CCTV1
-http://enlen.vip:4022/udp/239.200.200.70:8008
-#EXTINF:-1 group-title="云南电信",CCTV2
-http://enlen.vip:4022/udp/239.200.200.104:8084
-#EXTINF:-1 group-title="云南电信",CCTV3
-http://enlen.vip:4022/udp/239.200.200.18:9008
-#EXTINF:-1 group-title="云南电信",CCTV4
-http://enlen.vip:4022/udp/239.200.200.128:8652
-#EXTINF:-1 group-title="云南电信",CCTV4美洲
-http://enlen.vip:4022/udp/239.200.201.181:4220
-#EXTINF:-1 group-title="云南电信",CCTV4欧洲
-http://enlen.vip:4022/udp/239.200.201.180:4220
-#EXTINF:-1 group-title="云南电信",CCTV5
-http://enlen.vip:4022/udp/239.200.200.20:9016
-#EXTINF:-1 group-title="云南电信",CCTV6
-http://enlen.vip:4022/udp/239.200.200.21:9020
-#EXTINF:-1 group-title="云南电信",CCTV7
-http://enlen.vip:4022/udp/239.200.200.105:8104
-#EXTINF:-1 group-title="云南电信",CCTV8
-http://enlen.vip:4022/udp/239.200.200.23:9028
-#EXTINF:-1 group-title="云南电信",CCTV9
-http://enlen.vip:4022/udp/239.200.200.106:8112
-#EXTINF:-1 group-title="云南电信",CCTV10
-http://enlen.vip:4022/udp/239.200.200.107:8116
-#EXTINF:-1 group-title="云南电信",CCTV11
-http://enlen.vip:4022/udp/239.200.201.125:8480
-#EXTINF:-1 group-title="云南电信",CCTV12
-http://enlen.vip:4022/udp/239.200.200.108:8124
-#EXTINF:-1 group-title="云南电信",CCTV13
-http://enlen.vip:4022/udp/239.200.201.170:8620
-#EXTINF:-1 group-title="云南电信",CCTV14
-http://enlen.vip:4022/udp/239.200.200.109:8132
-#EXTINF:-1 group-title="云南电信",CCTV15
-http://enlen.vip:4022/udp/239.200.201.112:8496
-#EXTINF:-1 group-title="云南电信",CCTV16
-http://enlen.vip:4022/udp/239.200.200.193:8776
-#EXTINF:-1 group-title="云南电信",CCTV17
-http://enlen.vip:4022/udp/239.200.201.128:8504
-#EXTINF:-1 group-title="云南电信",CCTV4K
-http://enlen.vip:4022/udp/239.200.200.202:8784
-#EXTINF:-1 group-title="云南电信",CCTV16-4K
-http://enlen.vip:4022/udp/239.200.200.194:8780
-#EXTINF:-1 group-title="云南电信",CCTV5+
-http://enlen.vip:4022/udp/239.200.200.9:8004
-#EXTINF:-1 group-title="云南电信",CCTV电视指南
-http://enlen.vip:4022/udp/239.200.200.83:8000
-#EXTINF:-1 group-title="云南电信",CCTV第一剧场
-http://enlen.vip:4022/udp/239.200.200.82:8004
-#EXTINF:-1 group-title="云南电信",CCTV风云剧场
-http://enlen.vip:4022/udp/239.200.200.84:8016
-#EXTINF:-1 group-title="云南电信",CCTV风云音乐
-http://enlen.vip:4022/udp/239.200.200.86:8008
-#EXTINF:-1 group-title="云南电信",CCTV风云足球
-http://enlen.vip:4022/udp/239.200.200.88:8020
-#EXTINF:-1 group-title="云南电信",CCTV高尔夫网球
-http://enlen.vip:4022/udp/239.200.200.89:8024
-#EXTINF:-1 group-title="云南电信",CCTV怀旧剧场
-http://enlen.vip:4022/udp/239.200.200.85:8032
-#EXTINF:-1 group-title="云南电信",CCTV女性时尚
-http://enlen.vip:4022/udp/239.200.200.100:8084
-#EXTINF:-1 group-title="云南电信",CCTV兵器科技
-http://enlen.vip:4022/udp/239.200.200.91:8036
-#EXTINF:-1 group-title="云南电信",CCTV世界地理
-http://enlen.vip:4022/udp/239.200.200.130:8012
-#EXTINF:-1 group-title="云南电信",CCTV央视台球
-http://enlen.vip:4022/udp/239.200.200.135:8076
-#EXTINF:-1 group-title="云南电信",CCTV央视文化精品
-http://enlen.vip:4022/udp/239.200.200.92:8028
-#EXTINF:-1 group-title="云南电信",CCTV老故事
-http://enlen.vip:4022/udp/239.200.200.93:8088
-#EXTINF:-1 group-title="云南电信",CCTV中学生
-http://enlen.vip:4022/udp/239.200.200.136:8060
-#EXTINF:-1 group-title="云南电信",CHC动作电影
-http://enlen.vip:4022/udp/239.200.201.31:8144
-#EXTINF:-1 group-title="云南电信",CHC高清电影
-http://enlen.vip:4022/udp/239.200.201.34:8148
-#EXTINF:-1 group-title="云南电信",CHC家庭影院
-http://enlen.vip:4022/udp/239.200.201.30:8140
-#EXTINF:-1 group-title="云南电信",CETV1
-http://enlen.vip:4022/udp/239.200.201.49:8756
-#EXTINF:-1 group-title="云南电信",CETV2
-http://enlen.vip:4022/udp/239.200.201.121:8780
-#EXTINF:-1 group-title="云南电信",CETV4
-http://enlen.vip:4022/udp/239.200.201.122:8784
-#EXTINF:-1 group-title="云南电信",CGTN
-http://enlen.vip:4022/udp/239.200.201.182:4220
-#EXTINF:-1 group-title="云南电信",CGTN纪录
-http://enlen.vip:4022/udp/239.200.201.183:4220
-#EXTINF:-1 group-title="云南电信",CGTN阿拉伯语
-http://enlen.vip:4022/udp/239.200.201.186:4220
-#EXTINF:-1 group-title="云南电信",CGTN俄语
-http://enlen.vip:4022/udp/239.200.201.187:4220
-#EXTINF:-1 group-title="云南电信",CGTN西班牙语
-http://enlen.vip:4022/udp/239.200.201.184:4220
-#EXTINF:-1 group-title="云南电信",CGTN法语
-http://enlen.vip:4022/udp/239.200.201.185:4220
-#EXTINF:-1 group-title="云南电信",凤凰中文
-http://enlen.vip:4022/udp/239.200.200.132:8876
-#EXTINF:-1 group-title="云南电信",凤凰资讯
-http://enlen.vip:4022/udp/239.200.200.133:8880
-#EXTINF:-1 group-title="云南电信",云南卫视
-http://enlen.vip:4022/udp/239.200.200.145:8840
-#EXTINF:-1 group-title="云南电信",北京卫视
-http://enlen.vip:4022/udp/239.200.200.5:8024
-#EXTINF:-1 group-title="云南电信",东方卫视
-http://enlen.vip:4022/udp/239.200.200.8:8032
-#EXTINF:-1 group-title="云南电信",安徽卫视
-http://enlen.vip:4022/udp/239.200.200.129:8720
-#EXTINF:-1 group-title="云南电信",甘肃卫视
-http://enlen.vip:4022/udp/239.200.200.186:8356
-#EXTINF:-1 group-title="云南电信",吉林卫视
-http://enlen.vip:4022/udp/239.200.201.127:8792
-#EXTINF:-1 group-title="云南电信",江西卫视
-http://enlen.vip:4022/udp/239.200.201.79:8876
-#EXTINF:-1 group-title="云南电信",宁夏卫视
-http://enlen.vip:4022/udp/239.200.200.60:8308
-#EXTINF:-1 group-title="云南电信",陕西卫视
-http://enlen.vip:4022/udp/239.200.200.55:8288
-#EXTINF:-1 group-title="云南电信",山西卫视
-http://enlen.vip:4022/udp/239.200.200.56:8292
-#EXTINF:-1 group-title="云南电信",新疆卫视
-http://enlen.vip:4022/udp/239.200.200.62:8316
-#EXTINF:-1 group-title="云南电信",内蒙古卫视
-http://enlen.vip:4022/udp/239.200.200.57:8296
-#EXTINF:-1 group-title="云南电信",甘肃卫视
-http://enlen.vip:4022/udp/239.200.200.186:8356
-#EXTINF:-1 group-title="云南电信",辽宁卫视
-http://enlen.vip:4022/udp/239.200.200.167:8736
-#EXTINF:-1 group-title="云南电信",东南卫视
-http://enlen.vip:4022/udp/239.200.201.69:8764
-#EXTINF:-1 group-title="云南电信",海南卫视
-http://enlen.vip:4022/udp/239.200.201.159:8408
-#EXTINF:-1 group-title="云南电信",河南卫视
-http://enlen.vip:4022/udp/239.200.201.158:8412
-#EXTINF:-1 group-title="云南电信",浙江卫视
-http://enlen.vip:4022/udp/239.200.200.141:8724
-#EXTINF:-1 group-title="云南电信",江苏卫视
-http://enlen.vip:4022/udp/239.200.200.7:8028
-#EXTINF:-1 group-title="云南电信",广东卫视
-http://enlen.vip:4022/udp/239.200.201.35:8768
-#EXTINF:-1 group-title="云南电信",广西卫视
-http://enlen.vip:4022/udp/239.200.200.53:8280
-#EXTINF:-1 group-title="云南电信",贵州卫视
-http://enlen.vip:4022/udp/239.200.201.119:8788
-#EXTINF:-1 group-title="云南电信",黑龙江卫视
-http://enlen.vip:4022/udp/239.200.200.66:8016
-#EXTINF:-1 group-title="云南电信",湖北卫视
-http://enlen.vip:4022/udp/239.200.200.68:8772
-#EXTINF:-1 group-title="云南电信",湖南卫视
-http://enlen.vip:4022/udp/239.200.200.6:8012
-#EXTINF:-1 group-title="云南电信",青海卫视
-http://enlen.vip:4022/udp/239.200.200.58:8300
-#EXTINF:-1 group-title="云南电信",山东卫视
-http://enlen.vip:4022/udp/239.200.200.168:8748
-#EXTINF:-1 group-title="云南电信",四川卫视
-http://enlen.vip:4022/udp/239.200.201.137:8796
-#EXTINF:-1 group-title="云南电信",重庆卫视
-http://enlen.vip:4022/udp/239.200.200.49:8264
-#EXTINF:-1 group-title="云南电信",天津卫视
-http://enlen.vip:4022/udp/239.200.200.69:1234
-#EXTINF:-1 group-title="云南电信",西藏卫视
-http://enlen.vip:4022/udp/239.200.200.61:8312
-#EXTINF:-1 group-title="云南电信",深圳卫视
-http://enlen.vip:4022/udp/239.200.200.67:8776
-#EXTINF:-1 group-title="云南电信",三沙卫视
-http://enlen.vip:4022/udp/239.200.201.136:8140
-#EXTINF:-1 group-title="云南电信",山东教育
-http://enlen.vip:4022/udp/239.200.201.77:8132
-#EXTINF:-1 group-title="云南电信",云南都市
-http://enlen.vip:4022/udp/239.200.200.12:8844
-#EXTINF:-1 group-title="云南电信",云南康旅
-http://enlen.vip:4022/udp/239.200.200.31:8860
-#EXTINF:-1 group-title="云南电信",云南影视
-http://enlen.vip:4022/udp/239.200.200.15:8856
-#EXTINF:-1 group-title="云南电信",澜湄国际
-http://enlen.vip:4022/udp/239.200.200.33:8024
-#EXTINF:-1 group-title="云南电信",云南4K
-http://enlen.vip:4022/udp/239.200.200.178:8884
-#EXTINF:-1 group-title="云南电信",云南少儿
-http://enlen.vip:4022/udp/239.200.200.32:8864
-#EXTINF:-1 group-title="云南电信",云南娱乐
-http://enlen.vip:4022/udp/239.200.200.13:8848
-#EXTINF:-1 group-title="云南电信",楚雄文旅
-http://enlen.vip:4022/udp/239.200.200.117:8712
-#EXTINF:-1 group-title="云南电信",楚雄新闻
-http://enlen.vip:4022/udp/239.200.200.116:8708
-#EXTINF:-1 group-title="云南电信",禄丰
-http://enlen.vip:4022/udp/239.200.200.163:8798
-#EXTINF:-1 group-title="云南电信",嵩明
-http://enlen.vip:4022/udp/239.200.200.187:8616
-#EXTINF:-1 group-title="云南电信",景谷
-http://enlen.vip:4022/udp/239.200.200.185:8448
-#EXTINF:-1 group-title="云南电信",沾益
-http://enlen.vip:4022/udp/239.200.201.188:8108
-#EXTINF:-1 group-title="云南电信",马龙
-http://enlen.vip:4022/udp/239.200.201.152:8164
-#EXTINF:-1 group-title="云南电信",陆良
-http://enlen.vip:4022/udp/239.200.201.189:8148
-#EXTINF:-1 group-title="云南电信",师宗
-http://enlen.vip:4022/udp/239.200.201.110:8140
-#EXTINF:-1 group-title="云南电信",罗平
-http://enlen.vip:4022/udp/239.200.201.73:8124
-#EXTINF:-1 group-title="云南电信",会泽
-http://enlen.vip:4022/udp/239.200.201.84:8156
-#EXTINF:-1 group-title="云南电信",宣威
-http://enlen.vip:4022/udp/239.200.201.111:8116
-#EXTINF:-1 group-title="云南电信",红塔
-http://enlen.vip:4022/udp/239.200.200.211:8540
-#EXTINF:-1 group-title="云南电信",财富天下
-http://enlen.vip:4022/udp/239.200.201.178:8684
-#EXTINF:-1 group-title="云南电信",卡酷少儿
-http://enlen.vip:4022/udp/239.200.200.64:8324
-#EXTINF:-1 group-title="云南电信",金鹰卡通
-http://enlen.vip:4022/udp/239.200.200.65:8328
-#EXTINF:-1 group-title="云南电信",生态环境
-http://enlen.vip:4022/udp/239.200.201.172:8648
-#EXTINF:-1 group-title="云南电信",优优宝贝
-http://enlen.vip:4022/udp/239.200.201.173:8644
-#EXTINF:-1 group-title="云南电信",车迷频道
-http://enlen.vip:4022/udp/239.200.201.174:8640
-#EXTINF:-1 group-title="云南电信",北京纪实科教
-http://enlen.vip:4022/udp/239.200.200.147:8728
-#EXTINF:-1 group-title="云南电信",书画
-http://enlen.vip:4022/udp/239.200.201.133:8072
-#EXTINF:-1 group-title="云南电信",四海钓鱼
-http://enlen.vip:4022/udp/239.200.201.171:8636
-#EXTINF:-1 group-title="云南电信",新动漫
-http://enlen.vip:4022/udp/239.200.201.32:4120
-#EXTINF:-1 group-title="云南电信",证券服务
-http://enlen.vip:4022/udp/239.200.201.208:8688
-#EXTINF:-1 group-title="云南电信",中华美食
-http://enlen.vip:4022/udp/239.200.201.45:8800
-#EXTINF:-1 group-title="云南电信",中华特产
-http://enlen.vip:4022/udp/239.200.201.155:8124
-#EXTINF:-1 group-title="云南电信",重庆汽摩
-http://enlen.vip:4022/udp/239.200.200.98:8052
-#EXTINF:-1 group-title="云南电信",先锋乒羽
-http://enlen.vip:4022/udp/239.200.201.33:4120
-#EXTINF:-1 group-title="云南电信",茶频道
-http://enlen.vip:4022/udp/239.200.201.36:8404
-#EXTINF:-1 group-title="云南电信",金鹰纪实
-http://enlen.vip:4022/udp/239.200.201.126:8840
-#EXTINF:-1 group-title="云南电信",快乐垂钓
-http://enlen.vip:4022/udp/239.200.200.103:8400
-#EXTINF:-1 group-title="云南电信",文物宝库
-http://enlen.vip:4022/udp/239.200.200.96:8112
-#EXTINF:-1 group-title="云南电信",国学频道
-http://enlen.vip:4022/udp/239.200.200.97:8108
-#EXTINF:-1 group-title="云南电信",武术世界
-http://enlen.vip:4022/udp/239.200.200.90:8064
-#EXTINF:-1 group-title="云南电信",环球旅游
-http://enlen.vip:4022/udp/239.200.201.175:8652
-#EXTINF:-1 group-title="云南电信",环球奇观
-http://enlen.vip:4022/udp/239.200.200.94:8100
-#EXTINF:-1 group-title="云南电信",梨园频道
-http://enlen.vip:4022/udp/239.200.200.101:8048
-#EXTINF:-1 group-title="云南电信",家庭理财
-http://enlen.vip:4022/udp/239.200.201.177:8656
 #EXTINF:-1 group-title="四川电信",CCTV1
 http://ayolee.com:5253/udp/239.93.0.184:5140
 #EXTINF:-1 group-title="四川电信",CCTV2
@@ -631,6 +373,380 @@ http://ayolee.com:5253/udp/239.93.42.71:5140
 http://ayolee.com:5253/udp/239.93.42.72:5140
 #EXTINF:-1 group-title="四川电信",大爱四川
 http://ayolee.com:5253/udp/239.93.1.110:5140
+#EXTINF:-1 group-title="四川电信",CCTV1
+http://xeace.cn:8888/udp/239.93.0.184:5140
+#EXTINF:-1 group-title="四川电信",CCTV2
+http://xeace.cn:8888/udp/239.93.1.23:6000
+#EXTINF:-1 group-title="四川电信",CCTV3
+http://xeace.cn:8888/udp/239.93.1.11:2223
+#EXTINF:-1 group-title="四川电信",CCTV4
+http://xeace.cn:8888/udp/239.93.1.105:5140
+#EXTINF:-1 group-title="四川电信",CCTV5
+http://xeace.cn:8888/udp/239.93.42.37:5140
+#EXTINF:-1 group-title="四川电信",CCTV6
+http://xeace.cn:8888/udp/239.93.1.13:2226
+#EXTINF:-1 group-title="四川电信",CCTV7
+http://xeace.cn:8888/udp/239.93.1.67:5140
+#EXTINF:-1 group-title="四川电信",CCTV8
+http://xeace.cn:8888/udp/239.93.42.39:5140
+#EXTINF:-1 group-title="四川电信",CCTV9
+http://xeace.cn:8888/udp/239.93.1.24:5140
+#EXTINF:-1 group-title="四川电信",CCTV10
+http://xeace.cn:8888/udp/239.93.1.28:5140
+#EXTINF:-1 group-title="四川电信",CCTV11
+http://xeace.cn:8888/udp/239.93.0.102:5140
+#EXTINF:-1 group-title="四川电信",CCTV12
+http://xeace.cn:8888/udp/239.93.1.30:8124
+#EXTINF:-1 group-title="四川电信",CCTV13
+http://xeace.cn:8888/udp/239.93.0.66:5140
+#EXTINF:-1 group-title="四川电信",CCTV14
+http://xeace.cn:8888/udp/239.93.1.29:6000
+#EXTINF:-1 group-title="四川电信",CCTV15
+http://xeace.cn:8888/udp/239.93.0.103:5140
+#EXTINF:-1 group-title="四川电信",CCTV16-4K
+http://xeace.cn:8888/udp/239.93.42.54:5140
+#EXTINF:-1 group-title="四川电信",CCTV17
+http://xeace.cn:8888/udp/239.93.0.92:5140
+#EXTINF:-1 group-title="四川电信",CCTV5+
+http://xeace.cn:8888/udp/239.93.1.36:8004
+#EXTINF:-1 group-title="四川电信",CCTV4K
+http://xeace.cn:8888/udp/239.93.42.42:5140
+#EXTINF:-1 group-title="四川电信",CETV1
+http://xeace.cn:8888/udp/239.93.1.111:5140
+#EXTINF:-1 group-title="四川电信",CETV2
+http://xeace.cn:8888/udp/239.93.0.113:5140
+#EXTINF:-1 group-title="四川电信",CETV4
+http://xeace.cn:8888/udp/239.93.0.50:5140
+#EXTINF:-1 group-title="四川电信",CGTN
+http://xeace.cn:8888/udp/239.93.0.104:5140
+#EXTINF:-1 group-title="四川电信",CGTN西班牙语
+http://xeace.cn:8888/udp/239.93.42.49:5140
+#EXTINF:-1 group-title="四川电信",CGTN法语
+http://xeace.cn:8888/udp/239.93.42.50:5140
+#EXTINF:-1 group-title="四川电信",CCTV高尔夫网球
+http://xeace.cn:8888/udp/239.93.1.54:5140
+#EXTINF:-1 group-title="四川电信",CCTV风云剧场
+http://xeace.cn:8888/udp/239.93.1.156:5140
+#EXTINF:-1 group-title="四川电信",CCTV世界地理
+http://xeace.cn:8888/udp/239.93.1.157:5140
+#EXTINF:-1 group-title="四川电信",CCTV央视文化精品
+http://xeace.cn:8888/udp/239.93.42.47:5140
+#EXTINF:-1 group-title="四川电信",CCTV女性时尚
+http://xeace.cn:8888/udp/239.93.42.62:5140
+#EXTINF:-1 group-title="四川电信",CCTV第一剧场
+http://xeace.cn:8888/udp/239.93.1.197:5140
+#EXTINF:-1 group-title="四川电信",CCTV怀旧剧场
+http://xeace.cn:8888/udp/239.93.1.198:5140
+#EXTINF:-1 group-title="四川电信",CCTV兵器科技
+http://xeace.cn:8888/udp/239.93.1.235:5140
+#EXTINF:-1 group-title="四川电信",中国天气
+http://xeace.cn:8888/udp/239.93.42.66:5140
+#EXTINF:-1 group-title="四川电信",云南卫视
+http://xeace.cn:8888/udp/239.93.1.174:5140
+#EXTINF:-1 group-title="四川电信",安徽卫视
+http://xeace.cn:8888/udp/239.93.1.106:5140
+#EXTINF:-1 group-title="四川电信",北京卫视
+http://xeace.cn:8888/udp/239.93.0.180:5140
+#EXTINF:-1 group-title="四川电信",东方卫视
+http://xeace.cn:8888/udp/239.93.0.123:5140
+#EXTINF:-1 group-title="四川电信",甘肃卫视
+http://xeace.cn:8888/udp/239.93.0.81:5140
+#EXTINF:-1 group-title="四川电信",东南卫视
+http://xeace.cn:8888/udp/239.93.0.42:5140
+#EXTINF:-1 group-title="四川电信",广东卫视
+http://xeace.cn:8888/udp/239.93.0.181:5140
+#EXTINF:-1 group-title="四川电信",广西卫视
+http://xeace.cn:8888/udp/239.93.42.46:5140
+#EXTINF:-1 group-title="四川电信",贵州卫视
+http://xeace.cn:8888/udp/239.93.0.131:5140
+#EXTINF:-1 group-title="四川电信",河北卫视
+http://xeace.cn:8888/udp/239.93.0.132:5140
+#EXTINF:-1 group-title="四川电信",河南卫视
+http://xeace.cn:8888/udp/239.93.42.45:5140
+#EXTINF:-1 group-title="四川电信",黑龙江卫视
+http://xeace.cn:8888/udp/239.93.0.183:5140
+#EXTINF:-1 group-title="四川电信",湖北卫视
+http://xeace.cn:8888/udp/239.93.0.250:5140
+#EXTINF:-1 group-title="四川电信",湖南卫视
+http://xeace.cn:8888/udp/239.93.0.88:5140
+#EXTINF:-1 group-title="四川电信",吉林卫视
+http://xeace.cn:8888/udp/239.93.0.248:5140
+#EXTINF:-1 group-title="四川电信",江苏卫视
+http://xeace.cn:8888/udp/239.93.0.89:5140
+#EXTINF:-1 group-title="四川电信",江西卫视
+http://xeace.cn:8888/udp/239.93.0.134:5140
+#EXTINF:-1 group-title="四川电信",辽宁卫视
+http://xeace.cn:8888/udp/239.93.1.108:5140
+#EXTINF:-1 group-title="四川电信",四川卫视
+http://xeace.cn:8888/udp/239.93.0.169:5140
+#EXTINF:-1 group-title="四川电信",山东卫视
+http://xeace.cn:8888/udp/239.93.0.168:5140
+#EXTINF:-1 group-title="四川电信",陕西卫视
+http://xeace.cn:8888/udp/239.93.0.143:5140
+#EXTINF:-1 group-title="四川电信",天津卫视
+http://xeace.cn:8888/udp/239.93.0.167:5140
+#EXTINF:-1 group-title="四川电信",浙江卫视
+http://xeace.cn:8888/udp/239.93.0.124:5140
+#EXTINF:-1 group-title="四川电信",重庆卫视
+http://xeace.cn:8888/udp/239.93.1.107:5140
+#EXTINF:-1 group-title="四川电信",海南卫视
+http://xeace.cn:8888/udp/239.93.0.80:5140
+#EXTINF:-1 group-title="四川电信",内蒙古卫视
+http://xeace.cn:8888/udp/239.93.0.8:5140
+#EXTINF:-1 group-title="四川电信",宁夏卫视
+http://xeace.cn:8888/udp/239.93.0.247:5140
+#EXTINF:-1 group-title="四川电信",青海卫视
+http://xeace.cn:8888/udp/239.93.0.192:5140
+#EXTINF:-1 group-title="四川电信",山西卫视
+http://xeace.cn:8888/udp/239.93.0.6:5140
+#EXTINF:-1 group-title="四川电信",新疆卫视
+http://xeace.cn:8888/udp/239.93.0.194:5140
+#EXTINF:-1 group-title="四川电信",西藏卫视
+http://xeace.cn:8888/udp/239.93.0.175:5140
+#EXTINF:-1 group-title="四川电信",兵团卫视
+http://xeace.cn:8888/udp/239.93.42.43:5140
+#EXTINF:-1 group-title="四川电信",深圳卫视
+http://xeace.cn:8888/udp/239.93.0.182:5140
+#EXTINF:-1 group-title="四川电信",三沙卫视
+http://xeace.cn:8888/udp/239.93.42.58:5140
+#EXTINF:-1 group-title="四川电信",厦门卫视
+http://xeace.cn:8888/udp/239.93.42.57:5140
+#EXTINF:-1 group-title="四川电信",安多卫视
+http://xeace.cn:8888/udp/239.93.0.234:5140
+#EXTINF:-1 group-title="四川电信",山东教育卫视
+http://xeace.cn:8888/udp/239.93.1.196:5140
+#EXTINF:-1 group-title="四川电信",陕西农林卫视
+http://xeace.cn:8888/udp/239.93.0.100:5140
+#EXTINF:-1 group-title="四川电信",CHC高清电影
+http://xeace.cn:8888/udp/239.93.42.5:5140
+#EXTINF:-1 group-title="四川电信",CHC家庭影院
+http://xeace.cn:8888/udp/239.93.42.6:5140
+#EXTINF:-1 group-title="四川电信",CHC动作电影
+http://xeace.cn:8888/udp/239.93.42.7:5140
+#EXTINF:-1 group-title="四川电信",凤凰中文
+http://xeace.cn:8888/udp/239.93.1.9:2192
+#EXTINF:-1 group-title="四川电信",凤凰资讯
+http://xeace.cn:8888/udp/239.93.1.4:2191
+#EXTINF:-1 group-title="四川电信",星空卫视
+http://xeace.cn:8888/udp/239.93.1.10:2193
+#EXTINF:-1 group-title="四川电信",CHANNELV
+http://xeace.cn:8888/udp/239.93.1.7:2194
+#EXTINF:-1 group-title="四川电信",求索纪录
+http://xeace.cn:8888/udp/239.93.42.24:5140
+#EXTINF:-1 group-title="四川电信",纪实人文
+http://xeace.cn:8888/udp/239.93.1.137:5140
+#EXTINF:-1 group-title="四川电信",北京纪实科教
+http://xeace.cn:8888/udp/239.93.0.141:5140
+#EXTINF:-1 group-title="四川电信",金鹰纪实
+http://xeace.cn:8888/udp/239.93.0.130:5140
+#EXTINF:-1 group-title="四川电信",爱喜剧
+http://xeace.cn:8888/udp/239.93.42.9:5140
+#EXTINF:-1 group-title="四川电信",爱科幻
+http://xeace.cn:8888/udp/239.93.42.10:5140
+#EXTINF:-1 group-title="四川电信",爱院线
+http://xeace.cn:8888/udp/239.93.42.11:5140
+#EXTINF:-1 group-title="四川电信",爱悬疑
+http://xeace.cn:8888/udp/239.93.42.12:5140
+#EXTINF:-1 group-title="四川电信",爱历史
+http://xeace.cn:8888/udp/239.93.42.13:5140
+#EXTINF:-1 group-title="四川电信",爱谍战
+http://xeace.cn:8888/udp/239.93.42.14:5140
+#EXTINF:-1 group-title="四川电信",爱旅行
+http://xeace.cn:8888/udp/239.93.42.16:5140
+#EXTINF:-1 group-title="四川电信",爱幼教
+http://xeace.cn:8888/udp/239.93.42.17:5140
+#EXTINF:-1 group-title="四川电信",爱玩具
+http://xeace.cn:8888/udp/239.93.42.18:5140
+#EXTINF:-1 group-title="四川电信",爱体育
+http://xeace.cn:8888/udp/239.93.42.19:5140
+#EXTINF:-1 group-title="四川电信",爱赛车
+http://xeace.cn:8888/udp/239.93.42.20:5140
+#EXTINF:-1 group-title="四川电信",爱浪漫
+http://xeace.cn:8888/udp/239.93.42.21:5140
+#EXTINF:-1 group-title="四川电信",爱奇谈
+http://xeace.cn:8888/udp/239.93.42.22:5140
+#EXTINF:-1 group-title="四川电信",爱动漫
+http://xeace.cn:8888/udp/239.93.42.23:5140
+#EXTINF:-1 group-title="四川电信",生活时尚
+http://xeace.cn:8888/udp/239.93.42.29:5140
+#EXTINF:-1 group-title="四川电信",都市剧场
+http://xeace.cn:8888/udp/239.93.42.30:5140
+#EXTINF:-1 group-title="四川电信",环球旅游
+http://xeace.cn:8888/udp/239.93.42.31:5140
+#EXTINF:-1 group-title="四川电信",绚影4K
+http://xeace.cn:8888/udp/239.93.42.33:5140
+#EXTINF:-1 group-title="四川电信",4K乐享超清
+http://xeace.cn:8888/udp/239.93.0.43:5140
+#EXTINF:-1 group-title="四川电信",亲子趣学4K
+http://xeace.cn:8888/udp/239.93.1.191:5140
+#EXTINF:-1 group-title="四川电信",少儿天地
+http://xeace.cn:8888/udp/239.93.42.34:5140
+#EXTINF:-1 group-title="四川电信",百姓健康
+http://xeace.cn:8888/udp/239.93.42.35:5140
+#EXTINF:-1 group-title="四川电信",Bestv谍战剧场
+http://xeace.cn:8888/udp/239.93.0.95:5140
+#EXTINF:-1 group-title="四川电信",Bestv华语影院
+http://xeace.cn:8888/udp/239.93.0.138:5140
+#EXTINF:-1 group-title="四川电信",Bestv全球大片
+http://xeace.cn:8888/udp/239.93.0.105:5140
+#EXTINF:-1 group-title="四川电信",Bestv星光院线
+http://xeace.cn:8888/udp/239.93.0.139:5140
+#EXTINF:-1 group-title="四川电信",Bestv热门剧场
+http://xeace.cn:8888/udp/239.93.0.140:5140
+#EXTINF:-1 group-title="四川电信",Bestv热门综艺
+http://xeace.cn:8888/udp/239.93.0.151:5140
+#EXTINF:-1 group-title="四川电信",Bestv宝宝动画
+http://xeace.cn:8888/udp/239.93.0.147:5140
+#EXTINF:-1 group-title="四川电信",Bestv青春动漫
+http://xeace.cn:8888/udp/239.93.0.146:5140
+#EXTINF:-1 group-title="四川电信",Bestv戏曲精选
+http://xeace.cn:8888/udp/239.93.0.144:5140
+#EXTINF:-1 group-title="四川电信",Bestv美食
+http://xeace.cn:8888/udp/239.93.42.85:5140
+#EXTINF:-1 group-title="四川电信",Bestv健康科普
+http://xeace.cn:8888/udp/239.93.42.84:5140
+#EXTINF:-1 group-title="四川电信",Bestv4K
+http://xeace.cn:8888/udp/239.93.42.75:5140
+#EXTINF:-1 group-title="四川电信",Bestv直播室1
+http://xeace.cn:8888/udp/239.93.1.180:5140
+#EXTINF:-1 group-title="四川电信",Bestv直播室2
+http://xeace.cn:8888/udp/239.93.1.181:5140
+#EXTINF:-1 group-title="四川电信",Bestv直播室3
+http://xeace.cn:8888/udp/239.93.1.182:5140
+#EXTINF:-1 group-title="四川电信",Bestv直播室4
+http://xeace.cn:8888/udp/239.93.1.183:5140
+#EXTINF:-1 group-title="四川电信",Bestv直播室5
+http://xeace.cn:8888/udp/239.93.1.184:5140
+#EXTINF:-1 group-title="四川电信",Bestv直播室6
+http://xeace.cn:8888/udp/239.93.1.185:5140
+#EXTINF:-1 group-title="四川电信",Bestv直播室7
+http://xeace.cn:8888/udp/239.93.1.186:5140
+#EXTINF:-1 group-title="四川电信",Bestv直播室8
+http://xeace.cn:8888/udp/239.93.1.187:5140
+#EXTINF:-1 group-title="四川电信",IPTV经典电影
+http://xeace.cn:8888/udp/239.93.0.57:9024
+#EXTINF:-1 group-title="四川电信",IPTV魅力时尚
+http://xeace.cn:8888/udp/239.93.0.190:9012
+#EXTINF:-1 group-title="四川电信",IPTV热播剧场
+http://xeace.cn:8888/udp/239.93.0.56:9020
+#EXTINF:-1 group-title="四川电信",IPTV少儿动画
+http://xeace.cn:8888/udp/239.93.0.193:9000
+#EXTINF:-1 group-title="四川电信",IPTV高网
+http://xeace.cn:8888/udp/239.93.0.202:9068
+#EXTINF:-1 group-title="四川电信",IPTV红色经典
+http://xeace.cn:8888/udp/239.93.1.176:5140
+#EXTINF:-1 group-title="四川电信",IPTV解密
+http://xeace.cn:8888/udp/239.93.0.199:9048
+#EXTINF:-1 group-title="四川电信",IPTV音乐现场
+http://xeace.cn:8888/udp/239.93.0.198:9044
+#EXTINF:-1 group-title="四川电信",IPTV军事
+http://xeace.cn:8888/udp/239.93.0.204:9076
+#EXTINF:-1 group-title="四川电信",IPTV地理
+http://xeace.cn:8888/udp/239.93.0.200:9052
+#EXTINF:-1 group-title="四川电信",IPTV墨宝
+http://xeace.cn:8888/udp/239.93.0.215:9132
+#EXTINF:-1 group-title="四川电信",IPTV戏曲
+http://xeace.cn:8888/udp/239.93.0.217:9208
+#EXTINF:-1 group-title="四川电信",IPTV足球
+http://xeace.cn:8888/udp/239.93.0.197:9040
+#EXTINF:-1 group-title="四川电信",精彩影视
+http://xeace.cn:8888/udp/239.93.42.92:5140
+#EXTINF:-1 group-title="四川电信",书画
+http://xeace.cn:8888/udp/239.93.42.67:5140
+#EXTINF:-1 group-title="四川电信",乐游
+http://xeace.cn:8888/udp/239.93.42.94:5140
+#EXTINF:-1 group-title="四川电信",金色学堂
+http://xeace.cn:8888/udp/239.93.42.95:5140
+#EXTINF:-1 group-title="四川电信",法治天地
+http://xeace.cn:8888/udp/239.93.42.96:5140
+#EXTINF:-1 group-title="四川电信",魅力足球
+http://xeace.cn:8888/udp/239.93.42.97:5140
+#EXTINF:-1 group-title="四川电信",劲爆体育
+http://xeace.cn:8888/udp/239.93.42.98:5140
+#EXTINF:-1 group-title="四川电信",中录动漫4K
+http://xeace.cn:8888/udp/239.93.1.188:5140
+#EXTINF:-1 group-title="四川电信",爱上4K
+http://xeace.cn:8888/udp/239.93.0.97:5140
+#EXTINF:-1 group-title="四川电信",财富天下
+http://xeace.cn:8888/udp/239.93.0.116:9136
+#EXTINF:-1 group-title="四川电信",茶频道
+http://xeace.cn:8888/udp/239.93.0.114:5140
+#EXTINF:-1 group-title="四川电信",东方财经
+http://xeace.cn:8888/udp/239.93.1.165:5140
+#EXTINF:-1 group-title="四川电信",乐龄学堂
+http://xeace.cn:8888/udp/239.93.1.179:5140
+#EXTINF:-1 group-title="四川电信",动漫秀场
+http://xeace.cn:8888/udp/239.93.42.93:5140
+#EXTINF:-1 group-title="四川电信",哈哈炫动
+http://xeace.cn:8888/udp/239.93.0.173:5140
+#EXTINF:-1 group-title="四川电信",优漫卡通
+http://xeace.cn:8888/udp/239.93.0.251:5140
+#EXTINF:-1 group-title="四川电信",嘉佳卡通
+http://xeace.cn:8888/udp/239.93.0.246:5140
+#EXTINF:-1 group-title="四川电信",金鹰卡通
+http://xeace.cn:8888/udp/239.93.0.108:5140
+#EXTINF:-1 group-title="四川电信",卡酷少儿
+http://xeace.cn:8888/udp/239.93.0.208:5140
+#EXTINF:-1 group-title="四川电信",梨园频道
+http://xeace.cn:8888/udp/239.93.1.195:5140
+#EXTINF:-1 group-title="四川电信",麻辣体育
+http://xeace.cn:8888/udp/239.93.42.60:5140
+#EXTINF:-1 group-title="四川电信",天元围棋
+http://xeace.cn:8888/udp/239.93.42.55:5140
+#EXTINF:-1 group-title="四川电信",先锋乒羽
+http://xeace.cn:8888/udp/239.93.42.56:5140
+#EXTINF:-1 group-title="四川电信",快乐垂钓
+http://xeace.cn:8888/udp/239.93.1.151:5140
+#EXTINF:-1 group-title="四川电信",来钓鱼吧
+http://xeace.cn:8888/udp/239.93.42.8:5140
+#EXTINF:-1 group-title="四川电信",汽摩
+http://xeace.cn:8888/udp/239.93.0.62:5140
+#EXTINF:-1 group-title="四川电信",电竞天堂
+http://xeace.cn:8888/udp/239.93.1.135:5140
+#EXTINF:-1 group-title="四川电信",游戏风云
+http://xeace.cn:8888/udp/239.93.0.136:5140
+#EXTINF:-1 group-title="四川电信",四川经济
+http://xeace.cn:8888/udp/239.93.1.101:5140
+#EXTINF:-1 group-title="四川电信",四川文化旅游
+http://xeace.cn:8888/udp/239.93.1.102:5140
+#EXTINF:-1 group-title="四川电信",四川新闻
+http://xeace.cn:8888/udp/239.93.0.47:5140
+#EXTINF:-1 group-title="四川电信",四川影视文艺
+http://xeace.cn:8888/udp/239.93.0.166:5140
+#EXTINF:-1 group-title="四川电信",四川科教
+http://xeace.cn:8888/udp/239.93.42.44:5140
+#EXTINF:-1 group-title="四川电信",四川乡村
+http://xeace.cn:8888/udp/239.93.0.52:5140
+#EXTINF:-1 group-title="四川电信",四川妇女儿童
+http://xeace.cn:8888/udp/239.93.0.219:5140
+#EXTINF:-1 group-title="四川电信",峨眉电影
+http://xeace.cn:8888/udp/239.93.0.252:5140
+#EXTINF:-1 group-title="四川电信",睛彩四川
+http://xeace.cn:8888/udp/239.93.0.126:5140
+#EXTINF:-1 group-title="四川电信",成都综合
+http://xeace.cn:8888/udp/239.93.0.16:5140
+#EXTINF:-1 group-title="四川电信",成都经济
+http://xeace.cn:8888/udp/239.93.0.17:1239
+#EXTINF:-1 group-title="四川电信",成都生活
+http://xeace.cn:8888/udp/239.93.0.18:1238
+#EXTINF:-1 group-title="四川电信",成都影视
+http://xeace.cn:8888/udp/239.93.0.19:1250
+#EXTINF:-1 group-title="四川电信",成都公共
+http://xeace.cn:8888/udp/239.93.1.231:5140
+#EXTINF:-1 group-title="四川电信",成都少儿
+http://xeace.cn:8888/udp/239.93.0.21:1251
+#EXTINF:-1 group-title="四川电信",蓉城先锋
+http://xeace.cn:8888/udp/239.93.0.91:2101
+#EXTINF:-1 group-title="四川电信",i成都
+http://xeace.cn:8888/udp/239.93.1.104:1234
+#EXTINF:-1 group-title="四川电信",大爱旅游
+http://xeace.cn:8888/udp/239.93.42.70:5140
+#EXTINF:-1 group-title="四川电信",大爱生活
+http://xeace.cn:8888/udp/239.93.42.71:5140
+#EXTINF:-1 group-title="四川电信",大爱时尚
+http://xeace.cn:8888/udp/239.93.42.72:5140
+#EXTINF:-1 group-title="四川电信",大爱四川
+http://xeace.cn:8888/udp/239.93.1.110:5140
 #EXTINF:-1 group-title="湖南电信",CCTV1
 http://www.erbao1981.top:8188/udp/239.76.253.151:9000
 #EXTINF:-1 group-title="湖南电信",CCTV2
@@ -1048,388 +1164,388 @@ http://tiaoxi.asia:4022/udp/233.50.200.167:5140
 #EXTINF:-1 group-title="浙江电信",卡酷少儿
 http://tiaoxi.asia:4022/udp/233.50.202.33:5140
 #EXTINF:-1 group-title="广东电信",CCTV1
-http://iptv.dcn88.live:6668/udp/239.77.0.129:5146
+http://14.154.189.185:4022/udp/239.77.0.129:5146
 #EXTINF:-1 group-title="广东电信",CCTV2
-http://iptv.dcn88.live:6668/udp/239.77.1.158:5146
+http://14.154.189.185:4022/udp/239.77.1.158:5146
 #EXTINF:-1 group-title="广东电信",CCTV3
-http://iptv.dcn88.live:6668/udp/239.77.0.169:5146
+http://14.154.189.185:4022/udp/239.77.0.169:5146
 #EXTINF:-1 group-title="广东电信",CCTV4
-http://iptv.dcn88.live:6668/udp/239.77.1.163:5146
+http://14.154.189.185:4022/udp/239.77.1.163:5146
 #EXTINF:-1 group-title="广东电信",CCTV4美洲
-http://iptv.dcn88.live:6668/udp/239.253.43.121:5146
+http://14.154.189.185:4022/udp/239.253.43.121:5146
 #EXTINF:-1 group-title="广东电信",CCTV4欧洲
-http://iptv.dcn88.live:6668/udp/239.253.43.120:5146
+http://14.154.189.185:4022/udp/239.253.43.120:5146
 #EXTINF:-1 group-title="广东电信",CCTV5
-http://iptv.dcn88.live:6668/udp/239.77.0.170:5146
+http://14.154.189.185:4022/udp/239.77.0.170:5146
 #EXTINF:-1 group-title="广东电信",CCTV6
-http://iptv.dcn88.live:6668/udp/239.77.0.171:5146
+http://14.154.189.185:4022/udp/239.77.0.171:5146
 #EXTINF:-1 group-title="广东电信",CCTV7
-http://iptv.dcn88.live:6668/udp/239.77.1.159:5146
+http://14.154.189.185:4022/udp/239.77.1.159:5146
 #EXTINF:-1 group-title="广东电信",CCTV8
-http://iptv.dcn88.live:6668/udp/239.77.0.172:5146
+http://14.154.189.185:4022/udp/239.77.0.172:5146
 #EXTINF:-1 group-title="广东电信",CCTV9
-http://iptv.dcn88.live:6668/udp/239.77.1.160:5146
+http://14.154.189.185:4022/udp/239.77.1.160:5146
 #EXTINF:-1 group-title="广东电信",CCTV10
-http://iptv.dcn88.live:6668/udp/239.77.1.113:5146
+http://14.154.189.185:4022/udp/239.77.1.113:5146
 #EXTINF:-1 group-title="广东电信",CCTV11
-http://iptv.dcn88.live:6668/udp/239.77.1.238:5146
+http://14.154.189.185:4022/udp/239.77.1.238:5146
 #EXTINF:-1 group-title="广东电信",CCTV12
-http://iptv.dcn88.live:6668/udp/239.77.1.109:5146
+http://14.154.189.185:4022/udp/239.77.1.109:5146
 #EXTINF:-1 group-title="广东电信",CCTV13
-http://iptv.dcn88.live:6668/udp/239.77.0.188:5146
+http://14.154.189.185:4022/udp/239.77.0.188:5146
 #EXTINF:-1 group-title="广东电信",CCTV14
-http://iptv.dcn88.live:6668/udp/239.77.1.161:5146
+http://14.154.189.185:4022/udp/239.77.1.161:5146
 #EXTINF:-1 group-title="广东电信",CCTV15
-http://iptv.dcn88.live:6668/udp/239.77.1.239:5146
+http://14.154.189.185:4022/udp/239.77.1.239:5146
 #EXTINF:-1 group-title="广东电信",CCTV16
-http://iptv.dcn88.live:6668/udp/239.77.1.76:5146
+http://14.154.189.185:4022/udp/239.77.1.76:5146
 #EXTINF:-1 group-title="广东电信",CCTV17
-http://iptv.dcn88.live:6668/udp/239.77.1.121:5146
+http://14.154.189.185:4022/udp/239.77.1.121:5146
 #EXTINF:-1 group-title="广东电信",CCTV4K
-http://iptv.dcn88.live:6668/udp/239.77.0.194:5146
+http://14.154.189.185:4022/udp/239.77.0.194:5146
 #EXTINF:-1 group-title="广东电信",CCTV8K
-http://iptv.dcn88.live:6668/udp/239.253.43.106:5146
+http://14.154.189.185:4022/udp/239.253.43.106:5146
 #EXTINF:-1 group-title="广东电信",CCTV5+
-http://iptv.dcn88.live:6668/udp/239.77.0.87:5146
+http://14.154.189.185:4022/udp/239.77.0.87:5146
 #EXTINF:-1 group-title="广东电信",CCTV16-4K
-http://iptv.dcn88.live:6668/udp/239.77.1.98:5146
+http://14.154.189.185:4022/udp/239.77.1.98:5146
 #EXTINF:-1 group-title="广东电信",CCTV电视指南
-http://iptv.dcn88.live:6668/udp/239.253.43.10:5146
+http://14.154.189.185:4022/udp/239.253.43.10:5146
 #EXTINF:-1 group-title="广东电信",CCTV第一剧场
-http://iptv.dcn88.live:6668/udp/239.253.43.15:5146
+http://14.154.189.185:4022/udp/239.253.43.15:5146
 #EXTINF:-1 group-title="广东电信",CCTV怀旧剧场
-http://iptv.dcn88.live:6668/udp/239.253.43.5:5146
+http://14.154.189.185:4022/udp/239.253.43.5:5146
 #EXTINF:-1 group-title="广东电信",CCTV风云剧场
-http://iptv.dcn88.live:6668/udp/239.253.43.16:5146
+http://14.154.189.185:4022/udp/239.253.43.16:5146
 #EXTINF:-1 group-title="广东电信",CCTV世界地理
-http://iptv.dcn88.live:6668/udp/239.253.43.7:5146
+http://14.154.189.185:4022/udp/239.253.43.7:5146
 #EXTINF:-1 group-title="广东电信",CCTV兵器科技
-http://iptv.dcn88.live:6668/udp/239.253.43.9:5146
+http://14.154.189.185:4022/udp/239.253.43.9:5146
 #EXTINF:-1 group-title="广东电信",CCTV女性时尚
-http://iptv.dcn88.live:6668/udp/239.253.43.8:5146
+http://14.154.189.185:4022/udp/239.253.43.8:5146
 #EXTINF:-1 group-title="广东电信",CCTV央视台球
-http://iptv.dcn88.live:6668/udp/239.253.43.11:5146
+http://14.154.189.185:4022/udp/239.253.43.11:5146
 #EXTINF:-1 group-title="广东电信",CCTV风云足球
-http://iptv.dcn88.live:6668/udp/239.253.43.14:5146
+http://14.154.189.185:4022/udp/239.253.43.14:5146
 #EXTINF:-1 group-title="广东电信",CCTV高尔夫网球
-http://iptv.dcn88.live:6668/udp/239.253.43.12:5146
+http://14.154.189.185:4022/udp/239.253.43.12:5146
 #EXTINF:-1 group-title="广东电信",CCTV央视文化精品
-http://iptv.dcn88.live:6668/udp/239.253.43.13:5146
+http://14.154.189.185:4022/udp/239.253.43.13:5146
 #EXTINF:-1 group-title="广东电信",CCTV风云音乐
-http://iptv.dcn88.live:6668/udp/239.253.43.6:5146
+http://14.154.189.185:4022/udp/239.253.43.6:5146
 #EXTINF:-1 group-title="广东电信",CCTV老故事
-http://iptv.dcn88.live:6668/udp/239.77.0.220:5146
+http://14.154.189.185:4022/udp/239.77.0.220:5146
 #EXTINF:-1 group-title="广东电信",CCTV发现之旅
-http://iptv.dcn88.live:6668/udp/239.253.43.127:5146
+http://14.154.189.185:4022/udp/239.253.43.127:5146
 #EXTINF:-1 group-title="广东电信",CCTV中学生
-http://iptv.dcn88.live:6668/udp/239.77.1.195:5146
+http://14.154.189.185:4022/udp/239.77.1.195:5146
 #EXTINF:-1 group-title="广东电信",CGTN
-http://iptv.dcn88.live:6668/udp/239.77.0.199:5146
+http://14.154.189.185:4022/udp/239.77.0.199:5146
 #EXTINF:-1 group-title="广东电信",CGTN纪录
-http://iptv.dcn88.live:6668/udp/239.253.43.122:5146
+http://14.154.189.185:4022/udp/239.253.43.122:5146
 #EXTINF:-1 group-title="广东电信",CGTN西班牙语
-http://iptv.dcn88.live:6668/udp/239.77.0.221:5146
+http://14.154.189.185:4022/udp/239.77.0.221:5146
 #EXTINF:-1 group-title="广东电信",CGTN法语
-http://iptv.dcn88.live:6668/udp/239.77.0.228:5146
+http://14.154.189.185:4022/udp/239.77.0.228:5146
 #EXTINF:-1 group-title="广东电信",CGTN阿拉伯语
-http://iptv.dcn88.live:6668/udp/239.253.43.200:5146
+http://14.154.189.185:4022/udp/239.253.43.200:5146
 #EXTINF:-1 group-title="广东电信",CGTN俄语
-http://iptv.dcn88.live:6668/udp/239.253.43.201:5146
+http://14.154.189.185:4022/udp/239.253.43.201:5146
 #EXTINF:-1 group-title="广东电信",CETV1
-http://iptv.dcn88.live:6668/udp/239.77.0.200:5146
+http://14.154.189.185:4022/udp/239.77.0.200:5146
 #EXTINF:-1 group-title="广东电信",CETV2
-http://iptv.dcn88.live:6668/udp/239.77.1.69:5146
+http://14.154.189.185:4022/udp/239.77.1.69:5146
 #EXTINF:-1 group-title="广东电信",CETV4
-http://iptv.dcn88.live:6668/udp/239.77.1.200:5146
+http://14.154.189.185:4022/udp/239.77.1.200:5146
 #EXTINF:-1 group-title="广东电信",CHC高清电影
-http://iptv.dcn88.live:6668/udp/239.77.0.27:5146
+http://14.154.189.185:4022/udp/239.77.0.27:5146
 #EXTINF:-1 group-title="广东电信",中国交通
-http://iptv.dcn88.live:6668/udp/239.77.1.249:5146
+http://14.154.189.185:4022/udp/239.77.1.249:5146
 #EXTINF:-1 group-title="广东电信",中国天气
-http://iptv.dcn88.live:6668/udp/239.77.1.143:5146
+http://14.154.189.185:4022/udp/239.77.1.143:5146
 #EXTINF:-1 group-title="广东电信",云南卫视
-http://iptv.dcn88.live:6668/udp/239.253.43.100:5146
+http://14.154.189.185:4022/udp/239.253.43.100:5146
 #EXTINF:-1 group-title="广东电信",湖南卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.127:5146
+http://14.154.189.185:4022/udp/239.77.0.127:5146
 #EXTINF:-1 group-title="广东电信",浙江卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.89:5146
+http://14.154.189.185:4022/udp/239.77.0.89:5146
 #EXTINF:-1 group-title="广东电信",江苏卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.90:5146
+http://14.154.189.185:4022/udp/239.77.0.90:5146
 #EXTINF:-1 group-title="广东电信",东方卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.98:5146
+http://14.154.189.185:4022/udp/239.77.0.98:5146
 #EXTINF:-1 group-title="广东电信",安徽卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.183:5146
+http://14.154.189.185:4022/udp/239.77.0.183:5146
 #EXTINF:-1 group-title="广东电信",北京卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.91:5146
+http://14.154.189.185:4022/udp/239.77.0.91:5146
 #EXTINF:-1 group-title="广东电信",天津卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.131:5146
+http://14.154.189.185:4022/udp/239.77.0.131:5146
 #EXTINF:-1 group-title="广东电信",山东卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.94:5146
+http://14.154.189.185:4022/udp/239.77.0.94:5146
 #EXTINF:-1 group-title="广东电信",江西卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.149:5146
+http://14.154.189.185:4022/udp/239.77.0.149:5146
 #EXTINF:-1 group-title="广东电信",湖北卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.128:5146
+http://14.154.189.185:4022/udp/239.77.0.128:5146
 #EXTINF:-1 group-title="广东电信",辽宁卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.123:5146
+http://14.154.189.185:4022/udp/239.77.0.123:5146
 #EXTINF:-1 group-title="广东电信",黑龙江卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.124:5146
+http://14.154.189.185:4022/udp/239.77.0.124:5146
 #EXTINF:-1 group-title="广东电信",贵州卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.230:5146
+http://14.154.189.185:4022/udp/239.77.0.230:5146
 #EXTINF:-1 group-title="广东电信",四川卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.159:5146
+http://14.154.189.185:4022/udp/239.77.0.159:5146
 #EXTINF:-1 group-title="广东电信",河南卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.17:5146
+http://14.154.189.185:4022/udp/239.77.0.17:5146
 #EXTINF:-1 group-title="广东电信",重庆卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.182:5146
+http://14.154.189.185:4022/udp/239.77.0.182:5146
 #EXTINF:-1 group-title="广东电信",河北卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.148:5146
+http://14.154.189.185:4022/udp/239.77.0.148:5146
 #EXTINF:-1 group-title="广东电信",东南卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.146:5146
+http://14.154.189.185:4022/udp/239.77.0.146:5146
 #EXTINF:-1 group-title="广东电信",广东卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.166:5146
+http://14.154.189.185:4022/udp/239.77.0.166:5146
 #EXTINF:-1 group-title="广东电信",广西卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.139:5146
+http://14.154.189.185:4022/udp/239.77.0.139:5146
 #EXTINF:-1 group-title="广东电信",吉林卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.150:5146
+http://14.154.189.185:4022/udp/239.77.0.150:5146
 #EXTINF:-1 group-title="广东电信",海南卫视
-http://iptv.dcn88.live:6668/udp/239.253.43.101:5146
+http://14.154.189.185:4022/udp/239.253.43.101:5146
 #EXTINF:-1 group-title="广东电信",甘肃卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.189:5146
+http://14.154.189.185:4022/udp/239.77.0.189:5146
 #EXTINF:-1 group-title="广东电信",青海卫视
-http://iptv.dcn88.live:6668/udp/239.253.43.125:5146
+http://14.154.189.185:4022/udp/239.253.43.125:5146
 #EXTINF:-1 group-title="广东电信",陕西卫视
-http://iptv.dcn88.live:6668/udp/239.77.1.54:5146
+http://14.154.189.185:4022/udp/239.77.1.54:5146
 #EXTINF:-1 group-title="广东电信",山西卫视
-http://iptv.dcn88.live:6668/udp/239.77.1.74:5146
+http://14.154.189.185:4022/udp/239.77.1.74:5146
 #EXTINF:-1 group-title="广东电信",内蒙古卫视
-http://iptv.dcn88.live:6668/udp/239.77.1.55:5146
+http://14.154.189.185:4022/udp/239.77.1.55:5146
 #EXTINF:-1 group-title="广东电信",宁夏卫视
-http://iptv.dcn88.live:6668/udp/239.77.1.47:5146
+http://14.154.189.185:4022/udp/239.77.1.47:5146
 #EXTINF:-1 group-title="广东电信",西藏卫视
-http://iptv.dcn88.live:6668/udp/239.77.1.49:5146
+http://14.154.189.185:4022/udp/239.77.1.49:5146
 #EXTINF:-1 group-title="广东电信",新疆卫视
-http://iptv.dcn88.live:6668/udp/239.77.1.53:5146
+http://14.154.189.185:4022/udp/239.77.1.53:5146
 #EXTINF:-1 group-title="广东电信",兵团卫视
-http://iptv.dcn88.live:6668/udp/239.77.1.80:5146
+http://14.154.189.185:4022/udp/239.77.1.80:5146
 #EXTINF:-1 group-title="广东电信",深圳卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.130:5146
+http://14.154.189.185:4022/udp/239.77.0.130:5146
 #EXTINF:-1 group-title="广东电信",厦门卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.96:5146
+http://14.154.189.185:4022/udp/239.77.0.96:5146
 #EXTINF:-1 group-title="广东电信",三沙卫视
-http://iptv.dcn88.live:6668/udp/239.253.43.113:5146
+http://14.154.189.185:4022/udp/239.253.43.113:5146
 #EXTINF:-1 group-title="广东电信",延边卫视
-http://iptv.dcn88.live:6668/udp/239.77.1.99:5146
+http://14.154.189.185:4022/udp/239.77.1.99:5146
 #EXTINF:-1 group-title="广东电信",大湾区卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.215:5146
+http://14.154.189.185:4022/udp/239.77.0.215:5146
 #EXTINF:-1 group-title="广东电信",金鹰纪实
-http://iptv.dcn88.live:6668/udp/239.77.1.217:5146
+http://14.154.189.185:4022/udp/239.77.1.217:5146
 #EXTINF:-1 group-title="广东电信",纪实人文
-http://iptv.dcn88.live:6668/udp/239.77.1.216:5146
+http://14.154.189.185:4022/udp/239.77.1.216:5146
 #EXTINF:-1 group-title="广东电信",求索纪录
-http://iptv.dcn88.live:6668/udp/239.77.0.21:5146
+http://14.154.189.185:4022/udp/239.77.0.21:5146
 #EXTINF:-1 group-title="广东电信",求索生活
-http://iptv.dcn88.live:6668/udp/239.77.0.153:5146
+http://14.154.189.185:4022/udp/239.77.0.153:5146
 #EXTINF:-1 group-title="广东电信",早期教育
-http://iptv.dcn88.live:6668/udp/239.77.0.180:5146
+http://14.154.189.185:4022/udp/239.77.0.180:5146
 #EXTINF:-1 group-title="广东电信",山东教育卫视
-http://iptv.dcn88.live:6668/udp/239.77.0.83:5146
+http://14.154.189.185:4022/udp/239.77.0.83:5146
 #EXTINF:-1 group-title="广东电信",财富天下
-http://iptv.dcn88.live:6668/udp/239.77.0.113:5146
+http://14.154.189.185:4022/udp/239.77.0.113:5146
 #EXTINF:-1 group-title="广东电信",茶频道
-http://iptv.dcn88.live:6668/udp/239.77.0.15:5146
+http://14.154.189.185:4022/udp/239.77.0.15:5146
 #EXTINF:-1 group-title="广东电信",快乐垂钓
-http://iptv.dcn88.live:6668/udp/239.77.0.145:5146
+http://14.154.189.185:4022/udp/239.77.0.145:5146
 #EXTINF:-1 group-title="广东电信",环球奇观
-http://iptv.dcn88.live:6668/udp/239.77.1.198:5146
+http://14.154.189.185:4022/udp/239.77.1.198:5146
 #EXTINF:-1 group-title="广东电信",书画
-http://iptv.dcn88.live:6668/udp/239.77.1.115:5146
+http://14.154.189.185:4022/udp/239.77.1.115:5146
 #EXTINF:-1 group-title="广东电信",国学
-http://iptv.dcn88.live:6668/udp/239.77.1.105:5146
+http://14.154.189.185:4022/udp/239.77.1.105:5146
 #EXTINF:-1 group-title="广东电信",汽摩
-http://iptv.dcn88.live:6668/udp/239.77.1.205:5146
+http://14.154.189.185:4022/udp/239.77.1.205:5146
 #EXTINF:-1 group-title="广东电信",天元围棋
-http://iptv.dcn88.live:6668/udp/239.253.43.98:5146
+http://14.154.189.185:4022/udp/239.253.43.98:5146
 #EXTINF:-1 group-title="广东电信",证券服务
-http://iptv.dcn88.live:6668/udp/239.77.1.135:5146
+http://14.154.189.185:4022/udp/239.77.1.135:5146
 #EXTINF:-1 group-title="广东电信",喜粤TV导视
-http://iptv.dcn88.live:6668/udp/239.77.0.185:5146
+http://14.154.189.185:4022/udp/239.77.0.185:5146
 #EXTINF:-1 group-title="广东电信",IPTV1
-http://iptv.dcn88.live:6668/udp/239.77.1.203:5146
+http://14.154.189.185:4022/udp/239.77.1.203:5146
 #EXTINF:-1 group-title="广东电信",IPTV2
-http://iptv.dcn88.live:6668/udp/239.77.1.201:5146
+http://14.154.189.185:4022/udp/239.77.1.201:5146
 #EXTINF:-1 group-title="广东电信",IPTV3
-http://iptv.dcn88.live:6668/udp/239.77.1.64:5146
+http://14.154.189.185:4022/udp/239.77.1.64:5146
 #EXTINF:-1 group-title="广东电信",IPTV4
-http://iptv.dcn88.live:6668/udp/239.77.1.56:5146
+http://14.154.189.185:4022/udp/239.77.1.56:5146
 #EXTINF:-1 group-title="广东电信",IPTV爱综艺
-http://iptv.dcn88.live:6668/udp/239.77.1.78:5146
+http://14.154.189.185:4022/udp/239.77.1.78:5146
 #EXTINF:-1 group-title="广东电信",IPTV爱体育
-http://iptv.dcn88.live:6668/udp/239.77.1.116:5146
+http://14.154.189.185:4022/udp/239.77.1.116:5146
 #EXTINF:-1 group-title="广东电信",IPTV爱电影
-http://iptv.dcn88.live:6668/udp/239.77.1.138:5146
+http://14.154.189.185:4022/udp/239.77.1.138:5146
 #EXTINF:-1 group-title="广东电信",IPTV爱大剧
-http://iptv.dcn88.live:6668/udp/239.77.1.82:5146
+http://14.154.189.185:4022/udp/239.77.1.82:5146
 #EXTINF:-1 group-title="广东电信",IPTV谍战剧场
-http://iptv.dcn88.live:6668/udp/239.77.1.83:5146
+http://14.154.189.185:4022/udp/239.77.1.83:5146
 #EXTINF:-1 group-title="广东电信",IPTV相声小品
-http://iptv.dcn88.live:6668/udp/239.77.1.84:5146
+http://14.154.189.185:4022/udp/239.77.1.84:5146
 #EXTINF:-1 group-title="广东电信",IPTV野外
-http://iptv.dcn88.live:6668/udp/239.77.1.85:5146
+http://14.154.189.185:4022/udp/239.77.1.85:5146
 #EXTINF:-1 group-title="广东电信",IPTV法治
-http://iptv.dcn88.live:6668/udp/239.77.1.86:5146
+http://14.154.189.185:4022/udp/239.77.1.86:5146
 #EXTINF:-1 group-title="广东电信",IPTV魅力时尚
-http://iptv.dcn88.live:6668/udp/239.77.1.88:5146
+http://14.154.189.185:4022/udp/239.77.1.88:5146
 #EXTINF:-1 group-title="广东电信",IPTV经典电影
-http://iptv.dcn88.live:6668/udp/239.77.1.89:5146
+http://14.154.189.185:4022/udp/239.77.1.89:5146
 #EXTINF:-1 group-title="广东电信",IPTV热播剧场
-http://iptv.dcn88.live:6668/udp/239.77.1.90:5146
+http://14.154.189.185:4022/udp/239.77.1.90:5146
 #EXTINF:-1 group-title="广东电信",IPTV少儿动画
-http://iptv.dcn88.live:6668/udp/239.77.1.91:5146
+http://14.154.189.185:4022/udp/239.77.1.91:5146
 #EXTINF:-1 group-title="广东电信",IPTV收视指南
-http://iptv.dcn88.live:6668/udp/239.77.0.111:5146
+http://14.154.189.185:4022/udp/239.77.0.111:5146
 #EXTINF:-1 group-title="广东电信",EBU
-http://iptv.dcn88.live:6668/udp/239.253.43.165:5146
+http://14.154.189.185:4022/udp/239.253.43.165:5146
 #EXTINF:-1 group-title="广东电信",Bestv1
-http://iptv.dcn88.live:6668/udp/239.253.43.115:5146
+http://14.154.189.185:4022/udp/239.253.43.115:5146
 #EXTINF:-1 group-title="广东电信",Bestv2
-http://iptv.dcn88.live:6668/udp/239.253.43.116:5146
+http://14.154.189.185:4022/udp/239.253.43.116:5146
 #EXTINF:-1 group-title="广东电信",Bestv3
-http://iptv.dcn88.live:6668/udp/239.253.43.117:5146
+http://14.154.189.185:4022/udp/239.253.43.117:5146
 #EXTINF:-1 group-title="广东电信",Bestv4
-http://iptv.dcn88.live:6668/udp/239.253.43.118:5146
+http://14.154.189.185:4022/udp/239.253.43.118:5146
 #EXTINF:-1 group-title="广东电信",Bestv5
-http://iptv.dcn88.live:6668/udp/239.253.43.119:5146
+http://14.154.189.185:4022/udp/239.253.43.119:5146
 #EXTINF:-1 group-title="广东电信",金鹰卡通
-http://iptv.dcn88.live:6668/udp/239.77.0.164:5146
+http://14.154.189.185:4022/udp/239.77.0.164:5146
 #EXTINF:-1 group-title="广东电信",嘉佳卡通
-http://iptv.dcn88.live:6668/udp/239.77.0.179:5146
+http://14.154.189.185:4022/udp/239.77.0.179:5146
 #EXTINF:-1 group-title="广东电信",广东珠江
-http://iptv.dcn88.live:6668/udp/239.77.0.114:5146
+http://14.154.189.185:4022/udp/239.77.0.114:5146
 #EXTINF:-1 group-title="广东电信",广东新闻
-http://iptv.dcn88.live:6668/udp/239.77.0.173:5146
+http://14.154.189.185:4022/udp/239.77.0.173:5146
 #EXTINF:-1 group-title="广东电信",广东民生
-http://iptv.dcn88.live:6668/udp/239.77.0.225:5146
+http://14.154.189.185:4022/udp/239.77.0.225:5146
 #EXTINF:-1 group-title="广东电信",广东体育
-http://iptv.dcn88.live:6668/udp/239.77.0.168:5146
+http://14.154.189.185:4022/udp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东电信",经济科教
-http://iptv.dcn88.live:6668/udp/239.77.0.167:5146
+http://14.154.189.185:4022/udp/239.77.0.167:5146
 #EXTINF:-1 group-title="广东电信",广东影视
-http://iptv.dcn88.live:6668/udp/239.77.0.217:5146
+http://14.154.189.185:4022/udp/239.77.0.217:5146
 #EXTINF:-1 group-title="广东电信",广东少儿
-http://iptv.dcn88.live:6668/udp/239.77.0.250:5146
+http://14.154.189.185:4022/udp/239.77.0.250:5146
 #EXTINF:-1 group-title="广东电信",岭南戏曲
-http://iptv.dcn88.live:6668/udp/239.77.0.16:5146
+http://14.154.189.185:4022/udp/239.77.0.16:5146
 #EXTINF:-1 group-title="广东电信",现代教育
-http://iptv.dcn88.live:6668/udp/239.77.0.18:5146
+http://14.154.189.185:4022/udp/239.77.0.18:5146
 #EXTINF:-1 group-title="广东电信",广东移动
-http://iptv.dcn88.live:6668/udp/239.77.0.20:5146
+http://14.154.189.185:4022/udp/239.77.0.20:5146
 #EXTINF:-1 group-title="广东电信",广东4K
-http://iptv.dcn88.live:6668/udp/239.77.0.245:5146
+http://14.154.189.185:4022/udp/239.77.0.245:5146
 #EXTINF:-1 group-title="广东电信",广州综合
-http://iptv.dcn88.live:6668/udp/239.253.43.71:5146
+http://14.154.189.185:4022/udp/239.253.43.71:5146
 #EXTINF:-1 group-title="广东电信",广州新闻
-http://iptv.dcn88.live:6668/udp/239.253.43.72:5146
+http://14.154.189.185:4022/udp/239.253.43.72:5146
 #EXTINF:-1 group-title="广东电信",广州影视
-http://iptv.dcn88.live:6668/udp/239.253.43.73:5146
+http://14.154.189.185:4022/udp/239.253.43.73:5146
 #EXTINF:-1 group-title="广东电信",广州法治
-http://iptv.dcn88.live:6668/udp/239.253.43.74:5146
+http://14.154.189.185:4022/udp/239.253.43.74:5146
 #EXTINF:-1 group-title="广东电信",南国都市4K
-http://iptv.dcn88.live:6668/udp/239.253.43.99:5146
+http://14.154.189.185:4022/udp/239.253.43.99:5146
 #EXTINF:-1 group-title="广东电信",深圳都市
-http://iptv.dcn88.live:6668/udp/239.77.1.176:5146
+http://14.154.189.185:4022/udp/239.77.1.176:5146
 #EXTINF:-1 group-title="广东电信",深圳电视剧
-http://iptv.dcn88.live:6668/udp/239.77.1.177:5146
+http://14.154.189.185:4022/udp/239.77.1.177:5146
 #EXTINF:-1 group-title="广东电信",深圳财经生活
-http://iptv.dcn88.live:6668/udp/239.77.1.242:5146
+http://14.154.189.185:4022/udp/239.77.1.242:5146
 #EXTINF:-1 group-title="广东电信",深圳体育健康
-http://iptv.dcn88.live:6668/udp/239.77.1.128:5146
+http://14.154.189.185:4022/udp/239.77.1.128:5146
 #EXTINF:-1 group-title="广东电信",深圳少儿
-http://iptv.dcn88.live:6668/udp/239.77.1.244:5146
+http://14.154.189.185:4022/udp/239.77.1.244:5146
 #EXTINF:-1 group-title="广东电信",深圳宝安
-http://iptv.dcn88.live:6668/udp/239.77.1.67:5146
+http://14.154.189.185:4022/udp/239.77.1.67:5146
 #EXTINF:-1 group-title="广东电信",深圳宝安第一课
-http://iptv.dcn88.live:6668/udp/239.77.1.225:5146
+http://14.154.189.185:4022/udp/239.77.1.225:5146
 #EXTINF:-1 group-title="广东电信",深圳龙岗频道
-http://iptv.dcn88.live:6668/udp/239.77.1.223:5146
+http://14.154.189.185:4022/udp/239.77.1.223:5146
 #EXTINF:-1 group-title="广东电信",深圳众创TV
-http://iptv.dcn88.live:6668/udp/239.77.1.247:5146
+http://14.154.189.185:4022/udp/239.77.1.247:5146
 #EXTINF:-1 group-title="广东电信",深圳移动电视
-http://iptv.dcn88.live:6668/udp/239.77.1.175:5146
+http://14.154.189.185:4022/udp/239.77.1.175:5146
 #EXTINF:-1 group-title="广东电信",韶关新闻综合
-http://iptv.dcn88.live:6668/udp/239.77.0.117:5146
+http://14.154.189.185:4022/udp/239.77.0.117:5146
 #EXTINF:-1 group-title="广东电信",湛江新闻综合
-http://iptv.dcn88.live:6668/udp/239.77.0.141:5146
+http://14.154.189.185:4022/udp/239.77.0.141:5146
 #EXTINF:-1 group-title="广东电信",湛江公共
-http://iptv.dcn88.live:6668/udp/239.77.0.140:5146
+http://14.154.189.185:4022/udp/239.77.0.140:5146
 #EXTINF:-1 group-title="广东电信",揭阳综合
-http://iptv.dcn88.live:6668/udp/239.77.0.229:5146
+http://14.154.189.185:4022/udp/239.77.0.229:5146
 #EXTINF:-1 group-title="广东电信",揭阳生活
-http://iptv.dcn88.live:6668/udp/239.77.0.251:5146
+http://14.154.189.185:4022/udp/239.77.0.251:5146
 #EXTINF:-1 group-title="广东电信",江门综合
-http://iptv.dcn88.live:6668/udp/239.77.0.201:5146
+http://14.154.189.185:4022/udp/239.77.0.201:5146
 #EXTINF:-1 group-title="广东电信",江门侨乡生活
-http://iptv.dcn88.live:6668/udp/239.77.0.202:5146
+http://14.154.189.185:4022/udp/239.77.0.202:5146
 #EXTINF:-1 group-title="广东电信",惠州1
-http://iptv.dcn88.live:6668/udp/239.77.1.232:5146
+http://14.154.189.185:4022/udp/239.77.1.232:5146
 #EXTINF:-1 group-title="广东电信",惠州2
-http://iptv.dcn88.live:6668/udp/239.77.1.233:5146
+http://14.154.189.185:4022/udp/239.77.1.233:5146
 #EXTINF:-1 group-title="广东电信",汕尾新闻综合
-http://iptv.dcn88.live:6668/udp/239.77.0.25:5146
+http://14.154.189.185:4022/udp/239.77.0.25:5146
 #EXTINF:-1 group-title="广东电信",汕尾文化生活
-http://iptv.dcn88.live:6668/udp/239.77.0.187:5146
+http://14.154.189.185:4022/udp/239.77.0.187:5146
 #EXTINF:-1 group-title="广东电信",珠海
-http://iptv.dcn88.live:6668/udp/239.77.0.155:5146
+http://14.154.189.185:4022/udp/239.77.0.155:5146
 #EXTINF:-1 group-title="广东电信",肇庆综合
-http://iptv.dcn88.live:6668/udp/239.253.43.1:5146
+http://14.154.189.185:4022/udp/239.253.43.1:5146
 #EXTINF:-1 group-title="广东电信",肇庆生活服务
-http://iptv.dcn88.live:6668/udp/239.253.43.2:5146
+http://14.154.189.185:4022/udp/239.253.43.2:5146
 #EXTINF:-1 group-title="广东电信",河源综合
-http://iptv.dcn88.live:6668/udp/239.253.43.213:5146
+http://14.154.189.185:4022/udp/239.253.43.213:5146
 #EXTINF:-1 group-title="广东电信",河源公共
-http://iptv.dcn88.live:6668/udp/239.253.43.214:5146
+http://14.154.189.185:4022/udp/239.253.43.214:5146
 #EXTINF:-1 group-title="广东电信",汕头综合
-http://iptv.dcn88.live:6668/udp/239.253.43.45:5146
+http://14.154.189.185:4022/udp/239.253.43.45:5146
 #EXTINF:-1 group-title="广东电信",汕头经济生活
-http://iptv.dcn88.live:6668/udp/239.253.43.46:5146
+http://14.154.189.185:4022/udp/239.253.43.46:5146
 #EXTINF:-1 group-title="广东电信",汕头文旅体育
-http://iptv.dcn88.live:6668/udp/239.253.43.47:5146
+http://14.154.189.185:4022/udp/239.253.43.47:5146
 #EXTINF:-1 group-title="广东电信",清远新闻综合
-http://iptv.dcn88.live:6668/udp/239.253.43.33:5146
+http://14.154.189.185:4022/udp/239.253.43.33:5146
 #EXTINF:-1 group-title="广东电信",清远文旅生活
-http://iptv.dcn88.live:6668/udp/239.253.43.34:5146
+http://14.154.189.185:4022/udp/239.253.43.34:5146
 #EXTINF:-1 group-title="广东电信",云浮综合
-http://iptv.dcn88.live:6668/udp/239.77.0.253:5146
+http://14.154.189.185:4022/udp/239.77.0.253:5146
 #EXTINF:-1 group-title="广东电信",云浮文旅
-http://iptv.dcn88.live:6668/udp/239.77.0.254:5146
+http://14.154.189.185:4022/udp/239.77.0.254:5146
 #EXTINF:-1 group-title="广东电信",茂名综合
-http://iptv.dcn88.live:6668/udp/239.77.0.206:5146
+http://14.154.189.185:4022/udp/239.77.0.206:5146
 #EXTINF:-1 group-title="广东电信",茂名文化生活
-http://iptv.dcn88.live:6668/udp/239.77.0.207:5146
+http://14.154.189.185:4022/udp/239.77.0.207:5146
 #EXTINF:-1 group-title="广东电信",佛山综合
-http://iptv.dcn88.live:6668/udp/239.253.43.57:5146
+http://14.154.189.185:4022/udp/239.253.43.57:5146
 #EXTINF:-1 group-title="广东电信",佛山公共
-http://iptv.dcn88.live:6668/udp/239.253.43.53:5146
+http://14.154.189.185:4022/udp/239.253.43.53:5146
 #EXTINF:-1 group-title="广东电信",佛山影视
-http://iptv.dcn88.live:6668/udp/239.253.43.56:5146
+http://14.154.189.185:4022/udp/239.253.43.56:5146
 #EXTINF:-1 group-title="广东电信",佛山顺德
-http://iptv.dcn88.live:6668/udp/239.253.43.55:5146
+http://14.154.189.185:4022/udp/239.253.43.55:5146
 #EXTINF:-1 group-title="广东电信",佛山南海
-http://iptv.dcn88.live:6668/udp/239.253.43.54:5146
+http://14.154.189.185:4022/udp/239.253.43.54:5146
 #EXTINF:-1 group-title="广东电信",中山综合
-http://iptv.dcn88.live:6668/udp/239.253.43.62:5146
+http://14.154.189.185:4022/udp/239.253.43.62:5146
 #EXTINF:-1 group-title="广东电信",香山文化
-http://iptv.dcn88.live:6668/udp/239.253.43.63:5146
+http://14.154.189.185:4022/udp/239.253.43.63:5146
 #EXTINF:-1 group-title="广东电信",潮州综合
-http://iptv.dcn88.live:6668/udp/239.253.43.70:5146
+http://14.154.189.185:4022/udp/239.253.43.70:5146
 #EXTINF:-1 group-title="广东电信",潮州民生
-http://iptv.dcn88.live:6668/udp/239.253.43.75:5146
+http://14.154.189.185:4022/udp/239.253.43.75:5146
 #EXTINF:-1 group-title="广东电信",东莞新闻综合
-http://iptv.dcn88.live:6668/udp/239.253.43.104:5146
+http://14.154.189.185:4022/udp/239.253.43.104:5146
 #EXTINF:-1 group-title="广东电信",东莞生活资讯
-http://iptv.dcn88.live:6668/udp/239.253.43.105:5146
+http://14.154.189.185:4022/udp/239.253.43.105:5146
 #EXTINF:-1 group-title="广东电信",徐闻综合
-http://iptv.dcn88.live:6668/udp/239.253.43.112:5146
+http://14.154.189.185:4022/udp/239.253.43.112:5146
 #EXTINF:-1 group-title="广东电信",梅州综合
-http://iptv.dcn88.live:6668/udp/239.253.43.123:5146
+http://14.154.189.185:4022/udp/239.253.43.123:5146
 #EXTINF:-1 group-title="广东电信",客家生活
-http://iptv.dcn88.live:6668/udp/239.253.43.124:5146
+http://14.154.189.185:4022/udp/239.253.43.124:5146
