@@ -1,1 +1,205 @@
 #EXTM3U
+#EXTINF:-1 group-title="云南电视+",云南卫视
+https://hwapi.yntv.net/62hdvf/41hse3.m3u8
+#EXTINF:-1 group-title="云南电视+",云南都市
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+#EXTINF:-1 group-title="云南电视+",云南康旅
+https://hwapi.yntv.net/62hdvf/227q43.m3u8
+#EXTINF:-1 group-title="云南电视+",云南影视
+https://hwapi.yntv.net/62hdvf/utrat7.m3u8
+#EXTINF:-1 group-title="云南电视+",云南少儿
+https://hwapi.yntv.net/62hdvf/9ojsty.m3u8
+#EXTINF:-1 group-title="云南电视+",大理|宾川
+http://live.bcrmtzx.com/tv01/sd/live.m3u8
+#EXTINF:-1 group-title="云南电视+",大理|洱源
+https://hwapi.yntv.net/d117oe/mk98io.m3u8
+#EXTINF:-1 group-title="云南电视+",大理|巍山
+https://hwapi.yntv.net/euxv6l/5q7637.m3u8
+#EXTINF:-1 group-title="云南电视+",大理|云龙
+https://hwapi.yntv.net/b0231t/f502oq.m3u8
+#EXTINF:-1 group-title="云南电视+",保山1
+http://livetxynbsdst.chinamcache.com/live/zb04.m3u8?txSecret=316b41fa3ccc85fe81aec6c90065c166&txTime=67847DB6
+#EXTINF:-1 group-title="云南电视+",保山2
+https://livetxynbsdst.chinamcache.com/live/zb03.m3u8?txSecret=d93358689f07ff61f63838c3a0c180bc&txTime=67847DB6
+#EXTINF:-1 group-title="云南电视+",保山3
+http://livetxynbsdst.chinamcache.com/live/zb02.m3u8?txSecret=cea94501be7015643d1c8ad49d50fe81&txTime=67847DB6
+#EXTINF:-1 group-title="云南电视+",保山|龙陵
+https://hwapi.yntv.net/ey0321/l0vlci.m3u8
+#EXTINF:-1 group-title="云南电视+",保山|隆阳
+https://hwapi.yntv.net/5a6l75/0w8p8m.m3u8
+#EXTINF:-1 group-title="云南电视+",玉溪新闻综合
+https://hwapi.yntv.net/r5fc3f/4kzlat.m3u8
+#EXTINF:-1 group-title="云南电视+",玉溪社会与法
+https://hwapi.yntv.net/r5fc3f/3l9g1m.m3u8
+#EXTINF:-1 group-title="云南电视+",玉溪|元江
+https://hwapi.yntv.net/vu7hkj/x6rer3.m3u8
+#EXTINF:-1 group-title="云南电视+",玉溪|通海
+http://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
+#EXTINF:-1 group-title="云南电视+",玉溪|易门
+http://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+#EXTINF:-1 group-title="云南电视+",临沧1
+https://hwapi.yntv.net/6tt654/1i495z.m3u8
+#EXTINF:-1 group-title="云南电视+",临沧2
+https://hwapi.yntv.net/6tt654/drfs5s.m3u8
+#EXTINF:-1 group-title="云南电视+",临沧|耿马
+https://hwapi.yntv.net/48td74/1t0g2n.m3u8
+#EXTINF:-1 group-title="云南电视+",丽江新闻综合
+https://live3f.lijiang.cn/live/tvzh_720p.m3u8
+#EXTINF:-1 group-title="云南电视+",丽江|华坪
+https://hwapi.yntv.net/xfm214/198968.m3u8
+#EXTINF:-1 group-title="云南电视+",怒江电视台
+https://hwapi.yntv.net/s5xpv2/9r4ei4.m3u8
+#EXTINF:-1 group-title="云南电视+",曲靖1
+http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",曲靖2
+http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",曲靖3
+http://channel.qjrb.cn/nmip-media/channellive/channel127550/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",曲靖|陆良
+https://hwapi.yntv.net/9327b6/v8i7rf.m3u8
+#EXTINF:-1 group-title="云南电视+",楚雄新闻
+http://www.chuxiong.cn/live/cxxwpd.m3u8
+#EXTINF:-1 group-title="云南电视+",楚雄文旅
+http://www.chuxiong.cn/live/cxwlpd.m3u8
+#EXTINF:-1 group-title="云南电视+",红河1
+https://live.hh.cn/hhtv1/index.m3u8
+#EXTINF:-1 group-title="云南电视+",红河|绿春
+http://zb-live.ynurl.com/lvchun/b02460f7-dfaf-4188-8906-4a915521bdf4.m3u8
+#EXTINF:-1 group-title="云南电视+",普洱1
+http://zhibo.puerw.cn/puer/d8a31925-f343-425b-a4fc-c9e945d23087.m3u8
+#EXTINF:-1 group-title="云南电视+",文山新闻综合
+http://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel103390/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",文山|麻栗坡
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",文山|丘北
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",文山|文山
+http://tvdrs.wsrtv.com.cn:8100/channellive/wsstv.flv
+#EXTINF:-1 group-title="云南电视+",文山|砚山
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",西双版纳新闻综合
+http://m3u8channel.xsbnrtv.cn/nmip-media/channellive/channel106885/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",西双版纳文化旅游
+http://m3u8channel.xsbnrtv.cn/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",昭通|巧家
+http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
+#EXTINF:-1 group-title="云南电视+",昭通|绥江
+https://livebroadcastsj.kpinfo.cn/live/w1721179025115329/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",昭通|镇雄
+http://livebroadcastzx.kpinfo.cn/live/w1721178893949339/playlist.m3u8
+#EXTINF:-1 group-title="云南电视+",德宏综合
+https://zhzt.edehong.com:8001/srs1/live/1746104.flv
+#EXTINF:-1 group-title="云南电视+",德宏文旅
+https://zhzt.edehong.com:8001/srs1/live/1764763.flv
+#EXTINF:-1 group-title="云南电视+",德宏|泷川
+http://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
+#EXTINF:-1 group-title="云南电视+",德宏|芒市
+http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.m3u8
+#EXTINF:-1 group-title="云南电视+",德宏|瑞丽
+http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
+#EXTINF:-1 group-title="AKTV",Channel 5
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Channel 8
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Channel U
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",TVBS-新闻台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",中天亚洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",中天新闻台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",中视
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",千禧经典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",娱乐新闻台
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",寰宇新闻台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",明珠剧集台
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",无线新闻台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",美亚电影台
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",翡翠剧集台
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",翡翠综合台
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",华视
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",靖天电影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",凤凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",凤凰资讯
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",凤凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",黄金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",龙华日韩台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",龙华经典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",龙华电影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",i-Fun 动漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Now星影台
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Now爆谷台
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",viutv
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",viutv6
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",无线新闻台
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",东森新闻
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Animax-HK
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Love Nature
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",NHK东京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",ROCK Action
+http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",亚洲新闻台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",东方卫视国际频道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",无线卫星新闻台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
