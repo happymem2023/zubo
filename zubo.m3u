@@ -159,6 +159,8 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",龙华电影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",i-Fun 动漫台
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Now星影台
