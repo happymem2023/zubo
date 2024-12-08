@@ -1,4 +1,158 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视卫视",CCTV1
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV1.flv
+#EXTINF:-1 group-title="央视卫视",CCTV1
+http://111.21.57.70:2180/live/CCTVx1/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV2
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV2.flv
+#EXTINF:-1 group-title="央视卫视",CCTV2
+http://111.21.57.70:2180/live/CCTVx2/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV3
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV3.flv
+#EXTINF:-1 group-title="央视卫视",CCTV3
+http://111.21.57.70:2180/live/CCTVx3/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV4
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV4.flv
+#EXTINF:-1 group-title="央视卫视",CCTV4
+http://111.21.57.70:2180/live/CCTVx4/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV5
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV5.flv
+#EXTINF:-1 group-title="央视卫视",CCTV5
+http://111.21.57.70:2180/live/CCTVx5/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV5+
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV5p.flv
+#EXTINF:-1 group-title="央视卫视",CCTV6
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV6.flv
+#EXTINF:-1 group-title="央视卫视",CCTV6
+http://111.21.57.70:2180/live/CCTVx6/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV7
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV7.flv
+#EXTINF:-1 group-title="央视卫视",CCTV7
+http://111.21.57.70:2180/live/CCTVx7/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV8
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV8.flv
+#EXTINF:-1 group-title="央视卫视",CCTV8
+http://111.21.57.70:2180/live/CCTVx8/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV9
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV9.flv
+#EXTINF:-1 group-title="央视卫视",CCTV9
+http://111.21.57.70:2180/live/CCTVx9/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV10
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV10.flv
+#EXTINF:-1 group-title="央视卫视",CCTV10
+http://111.21.57.70:2180/live/CCTVx10/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV11
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV11.flv
+#EXTINF:-1 group-title="央视卫视",CCTV11
+http://111.21.57.70:2180/live/CCTVx11/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV12
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV12.flv
+#EXTINF:-1 group-title="央视卫视",CCTV12
+http://111.21.57.70:2180/live/CCTVx12/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV13
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV13.flv
+#EXTINF:-1 group-title="央视卫视",CCTV13
+http://111.21.57.70:2180/live/CCTVx13/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV14
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV14.flv
+#EXTINF:-1 group-title="央视卫视",CCTV14
+http://111.21.57.70:2180/live/CCTVx14/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV15
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV15.flv
+#EXTINF:-1 group-title="央视卫视",CCTV15
+http://111.21.57.70:2180/live/CCTVx15/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV16
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV16.flv
+#EXTINF:-1 group-title="央视卫视",CCTV17
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_CCTV17.flv
+#EXTINF:-1 group-title="央视卫视",CETV1
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_cetv1.flv
+#EXTINF:-1 group-title="央视卫视",CETV2
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_cetv2.flv
+#EXTINF:-1 group-title="央视卫视",CETV4
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_cetv4.flv
+#EXTINF:-1 group-title="央视卫视",云南卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_ynws.flv
+#EXTINF:-1 group-title="央视卫视",北京卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_bjws.flv
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_dfws.flv
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_hunanws.flv
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_jsws.flv
+#EXTINF:-1 group-title="央视卫视",浙江卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_zjws.flv
+#EXTINF:-1 group-title="央视卫视",广东卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_gdws.flv
+#EXTINF:-1 group-title="央视卫视",广东珠江
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_gdzj.flv
+#EXTINF:-1 group-title="央视卫视",大湾区卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_dwqws.flv
+#EXTINF:-1 group-title="央视卫视",山东卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_sdws.flv
+#EXTINF:-1 group-title="央视卫视",深圳卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_szws.flv
+#EXTINF:-1 group-title="央视卫视",厦门卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_xmws.flv
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_lnws.flv
+#EXTINF:-1 group-title="央视卫视",安徽卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_ahws.flv
+#EXTINF:-1 group-title="央视卫视",河北卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_hebws.flv
+#EXTINF:-1 group-title="央视卫视",河南卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_henws.flv
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_hubws.flv
+#EXTINF:-1 group-title="央视卫视",天津卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_tjws.flv
+#EXTINF:-1 group-title="央视卫视",黑龙江卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_hljws.flv
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_jlws.flv
+#EXTINF:-1 group-title="央视卫视",海南卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_hainws.flv
+#EXTINF:-1 group-title="央视卫视",四川卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_scws.flv
+#EXTINF:-1 group-title="央视卫视",重庆卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_cqws.flv
+#EXTINF:-1 group-title="央视卫视",广西卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_gxws.flv
+#EXTINF:-1 group-title="央视卫视",江西卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_jxws.flv
+#EXTINF:-1 group-title="央视卫视",山西卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_shxws.flv
+#EXTINF:-1 group-title="央视卫视",陕西卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_sxws2.flv
+#EXTINF:-1 group-title="央视卫视",贵州卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_gzws.flv
+#EXTINF:-1 group-title="央视卫视",甘肃卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_gsws.flv
+#EXTINF:-1 group-title="央视卫视",宁夏卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_nxws.flv
+#EXTINF:-1 group-title="央视卫视",青海卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_qhws.flv
+#EXTINF:-1 group-title="央视卫视",内蒙古卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_nmgws.flv
+#EXTINF:-1 group-title="央视卫视",新疆卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_xjws.flv
+#EXTINF:-1 group-title="央视卫视",西藏卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_xzws.flv
+#EXTINF:-1 group-title="央视卫视",东南卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_dnws.flv
+#EXTINF:-1 group-title="央视卫视",兵团卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_btws.flv
+#EXTINF:-1 group-title="央视卫视",农林卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_nlws.flv
+#EXTINF:-1 group-title="央视卫视",延边卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_ybws.flv
+#EXTINF:-1 group-title="央视卫视",安多卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_adws.flv
+#EXTINF:-1 group-title="央视卫视",康巴卫视
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_kbws.flv
+#EXTINF:-1 group-title="央视卫视",山东教育
+http://ali.hlspull.yximgs.com/live/dmo2gp6x_sdce.flv
 #EXTINF:-1 group-title="云南电视+",云南卫视
 https://hwapi.yntv.net/62hdvf/41hse3.m3u8
 #EXTINF:-1 group-title="云南电视+",云南都市
@@ -97,6 +251,60 @@ http://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.m3u8
 #EXTINF:-1 group-title="云南电视+",德宏|瑞丽
 http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
+#EXTINF:-1 group-title="地方台",山西卫视
+https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/i1sqeR0.m3u8
+#EXTINF:-1 group-title="地方台",山西经济
+https://livehhhttps.sxrtv.com/lsdream/4j01KWX/9614e00.m3u8
+#EXTINF:-1 group-title="地方台",山西影视
+https://livehhhttps.sxrtv.com/lsdream/Md571Kv/s5iMe50.m3u8
+#EXTINF:-1 group-title="地方台",山西社会与法治
+https://livehhhttps.sxrtv.com/lsdream/p4y5do9/xdpey00.m3u8
+#EXTINF:-1 group-title="地方台",山西文体生活
+https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/139Ye00.m3u8
+#EXTINF:-1 group-title="地方台",山西黄河
+https://livehhhttps.sxrtv.com/lsdream/lce1mC4/h1tle40.m3u8
+#EXTINF:-1 group-title="地方台",太原新闻综合
+https://tytv-hls.sxtygdy.com/49VAfrw/m4o4eV0.m3u8
+#EXTINF:-1 group-title="地方台",太原经济生活
+https://tytv-hls.sxtygdy.com/u8BmT6h/j2rueB0.m3u8
+#EXTINF:-1 group-title="地方台",太原社教法制
+https://tytv-hls.sxtygdy.com/phsry3e/z9pes0y.m3u8
+#EXTINF:-1 group-title="地方台",太原影视
+https://tytv-hls.sxtygdy.com/J4EX72D/g6uJeE0.m3u8
+#EXTINF:-1 group-title="地方台",太原文体
+https://tytv-hls.sxtygdy.com/rk8Z088/139re80.m3u8
+#EXTINF:-1 group-title="地方台",太原城市生活
+https://tytv-hls.sxtygdy.com/i88rmGU/624ie80.m3u8
+#EXTINF:-1 group-title="地方台",太原教育
+https://tytv-hls.sxtygdy.com/g4XtSCF/a20geX0.m3u8
+#EXTINF:-1 group-title="地方台",大连新闻综合
+http://live.dltv.cn/tcb3IB5/327teb0.m3u8
+#EXTINF:-1 group-title="地方台",大连生活
+http://live.dltv.cn/JzcFkF4/624Jec0.m3u8
+#EXTINF:-1 group-title="地方台",大连文体
+http://live.dltv.cn/hxT7Fc3/m1omeT0.m3u8
+#EXTINF:-1 group-title="地方台",江门综合
+http://tidelive.jmtv.cn/lsdream/4x3T0dO/7534e00.m3u8
+#EXTINF:-1 group-title="地方台",江门侨乡生活
+http://tidelive.jmtv.cn/lsdream/qzohscw/b2lqee0.m3u8
+#EXTINF:-1 group-title="地方台",昭通一套
+https://live.zttv.cn/lsdream/Ii3aRRS/n3nIe30.m3u8
+#EXTINF:-1 group-title="地方台",昭通三套
+https://live.zttv.cn/lsdream/EiCgjnA/t1hEeC0.m3u8
+#EXTINF:-1 group-title="地方台",东宁综合
+http://vod.center.hljtv.com/lsdream/7gf6a72/t4h7ef0.m3u8
+#EXTINF:-1 group-title="地方台",穆棱综合
+http://vod.center.hljtv.com/lsdream/wy7HG9x/822we70.m3u8
+#EXTINF:-1 group-title="地方台",绥芬河综合
+http://vod.center.hljtv.com/lsdream/gS7S5pS/u2g0e70.m3u8
+#EXTINF:-1 group-title="地方台",嘉荫综合
+http://vod.center.hljtv.com/lsdream/1lqKC4B/1591eq0.m3u8
+#EXTINF:-1 group-title="地方台",铁力综合
+http://vod.center.hljtv.com/lsdream/QgOu88F/d3xQeO0.m3u8
+#EXTINF:-1 group-title="地方台",依安综合
+http://vod.center.hljtv.com/lsdream/1szOvMr/d2x1ez0.m3u8
+#EXTINF:-1 group-title="地方台",友谊综合
+http://vod.center.hljtv.com/lsdream/d037rmI/931de30.m3u8
 #EXTINF:-1 group-title="AKTV",Channel 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Channel 8
@@ -187,7 +395,7 @@ http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NHK东京総合
+#EXTINF:-1 group-title="AKTV",NHK东京总合
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
