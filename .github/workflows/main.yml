@@ -2,9 +2,10 @@ name: get_b_cdn
 
 #0 5-15 * * * 每天5-15点整点触发
 #0 */8 * * * 每隔8小时触发
+#10 0 * * * 每天0点10分触发
 on:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '10 16 * * *'
   push:
     branches:
       - main
@@ -23,7 +24,7 @@ jobs:
           python-version: '3.12.3'
 
       - name: Install dependencies
-        run: pip install requests selenium zhconv
+        run: pip install requests selenium zhconv PyExecJS
 
       - name: Run script
         run: python ${{ github.workspace }}/run.py
