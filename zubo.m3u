@@ -175,7 +175,7 @@ http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",东森新闻
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Animax-HK
+#EXTINF:-1 group-title="AKTV",Animax
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
@@ -193,8 +193,6 @@ http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ROCK Action
-http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",ZooMoo
