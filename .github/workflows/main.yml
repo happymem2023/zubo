@@ -4,8 +4,8 @@ name: get_b_cdn
 #0 */8 * * * 每隔8小时触发
 #10 0 * * * 每天0点10分触发
 on:
-  schedule:
-    - cron: '10 16 * * *'
+  #schedule:
+    #- cron: '10 16 * * *'
   push:
     branches:
       - main
