@@ -24,7 +24,7 @@ jobs:
           python-version: '3.12.3'
 
       - name: Install dependencies
-        run: pip install requests selenium zhconv
+        run: pip install requests selenium zhconv beautifulsoup4
 
       - name: Run script
         run: python ${{ github.workspace }}/run.py
